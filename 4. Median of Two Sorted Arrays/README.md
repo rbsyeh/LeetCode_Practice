@@ -2,7 +2,8 @@
 
 ## Difficulty
 
-Easy Medium <span style="background-color:#FF0000">Hard</span>
+Easy Medium <b>`Hard`</b>
+
 
 ## Description
 
