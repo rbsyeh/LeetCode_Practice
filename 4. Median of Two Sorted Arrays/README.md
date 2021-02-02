@@ -2,7 +2,7 @@
 
 ## Difficulty
 
-Easy Medinm **Hard**
+Easy Medium <span style="background-color:#FF0000">Hard</span>
 
 ## Description
 
