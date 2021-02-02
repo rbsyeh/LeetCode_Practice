@@ -25,7 +25,7 @@ You can return the answer in any order.
 
 <pre>
 <b>Input:</b> nums = [3,2,4], target = 6
-<b>Output:</b> [1,2]**
+<b>Output:</b> [1,2]
 </pre>
 
 ### Example 3:
