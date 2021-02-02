@@ -2,7 +2,7 @@
 
 ## Difficulty
 
-Easy Medium <b>`Hard`</b>
+Easy Medium **`Hard`**
 
 
 ## Description
