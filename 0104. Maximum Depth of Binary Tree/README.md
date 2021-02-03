@@ -43,5 +43,5 @@ A binary tree's **maximum depth** is the number of nodes along the longest path 
 
 ### Constraints:
 
-* The number of nodes in the tree is in the range `[0, 104]`.
+* The number of nodes in the tree is in the range <img src="http://latex.codecogs.com/gif.latex?[0,10^4]">.
 * `-100 <= Node.val <= 100`
