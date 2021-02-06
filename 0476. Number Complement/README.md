@@ -20,7 +20,6 @@ Given a **positive** integer `num`, output its complement number. The complement
 
 The binary representation of 5 is 101 (no leading zero bits), 
 and its complement is 010. So you need to output 2.
-
 </pre>
 
 ### Example 2:
@@ -35,7 +34,6 @@ and its complement is 010. So you need to output 2.
 
 The binary representation of 1 is 1 (no leading zero bits), 
 and its complement is 0. So you need to output 0.
-
 </pre>
 
 ### Constraints:
