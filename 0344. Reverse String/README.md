@@ -2,7 +2,7 @@
 
 ## Difficulty
 
-**`Easy`** Medinm Hard
+**`Easy`** Medium Hard
 
 ## Description
 
