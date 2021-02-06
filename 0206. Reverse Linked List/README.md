@@ -1,4 +1,4 @@
-# 1720. Decode XORed Array
+# 206. Reverse Linked List
 
 ## Difficulty
 
